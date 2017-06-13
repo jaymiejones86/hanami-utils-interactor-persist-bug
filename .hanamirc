@@ -1,0 +1,4 @@
+project=hanami_interactor_persist_issue
+architecture=container
+test=rspec
+template=erb
